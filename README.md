@@ -7,6 +7,8 @@ Your companion for practice and enhance java coding skills.
     1. Check Style
     2. Jacoco
 
+
+---------------
 1. Day 1
    1. What is java?
    2. Why Java?
